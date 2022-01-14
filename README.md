@@ -32,3 +32,6 @@ I am a frontend developer
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erdem-muhammed&theme=buefy&" alt="my commit status" width="49%" /> </p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdem-muhammed&theme=tokyonight)
 
+
+![](https://visitor-badge.laobi.icu/badge?page_id=erdem-muhammed)
+
