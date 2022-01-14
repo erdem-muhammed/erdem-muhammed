@@ -12,11 +12,13 @@ I am a frontend developer
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" alt="react" width="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" height="55"/> </a>
+<br>
 ## 💻 Backend
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" alt="php" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2" alt="express" height="50" /> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" height="50" /> </a>
+<br>
 ## ⚙ Tools
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" alt="sass" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="ts" height="50"/> </a>
