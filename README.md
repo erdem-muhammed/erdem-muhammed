@@ -20,7 +20,6 @@ I am a frontend developer
 ## ⚙ Tools <br>
 <hr>
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" alt="sass" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="ts" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_171159.png" alt="figma" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="git" height="50"/> </a>
