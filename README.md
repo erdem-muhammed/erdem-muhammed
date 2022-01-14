@@ -3,8 +3,7 @@ I am a frontend developer
 - 🔭 Working on frontend projects.
 - 🌱 Eager to learn new technologies.
 <br>
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-erdem-b5a84b170/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:erdem.muhammed@outlook.de)
+
 <br>
 ## 💻 Frontend <br>
 <hr>
