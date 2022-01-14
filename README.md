@@ -3,8 +3,6 @@ I am a frontend developer
 - 🔭 Working on frontend projects.
 - 🌱 Eager to learn new technologies.
 <br>
-
-<br>
 ## 💻 Frontend <br>
 <hr>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" height="60"/> </a>
