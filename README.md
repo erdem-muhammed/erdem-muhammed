@@ -23,6 +23,7 @@ I am a frontend developer
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" height="50" /> </a>
 <br>
 ## ⚙ Tools <br>
+<hr>
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" alt="sass" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="ts" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/atom_macos_bigsur_icon_190374.png" alt="atom" height="50"/> </a>
