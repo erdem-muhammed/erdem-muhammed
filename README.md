@@ -34,7 +34,8 @@ I am a frontend developer
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="gitHub" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_teams_logo_icon_145726.png" height="30"/> </a><br>
-<p align="left">
+<p align="left"> 
+ <br> <br>
 <img src="https://github-readme-stats.vercel.app/api?username=erdem-muhammed&theme=buefy " alt="my github stats" width="49%"/></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erdem-muhammed&theme=buefy&" alt="my commit status" width="49%" /> </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdem-muhammed&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
