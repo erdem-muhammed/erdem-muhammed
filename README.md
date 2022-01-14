@@ -38,5 +38,5 @@ I am a frontend developer
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=erdem-muhammed&theme=buefy " alt="my github stats" width="49%"/></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erdem-muhammed&theme=buefy&" alt="my commit status" width="49%" /> </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdem-muhammed)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdem-muhammed&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
