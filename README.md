@@ -33,3 +33,6 @@ I am a frontend developer
  <br> <br>
 <img src="https://github-readme-stats.vercel.app/api?username=erdem-muhammed&theme=buefy " alt="my github stats" width="49%"/></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erdem-muhammed&theme=buefy&" alt="my commit status" width="49%" /> </p>
+ <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdem-muhammed&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  </p>
